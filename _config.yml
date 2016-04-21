@@ -1,0 +1,28 @@
+name: A Life Without Compunction
+favicon: null
+layout_spectrum: 0.2816725457087159
+typography_spectrum: 0.39274633140303195
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.28736767871305346
+  lightness: 0.09193952125497162
+  saturation: 0.6527698503341526
+  rhythmicContrast: 0.21123122819699347
+purpose: []
